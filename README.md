@@ -27,3 +27,15 @@ python setup.py install
 ```shell script
 pip install numpy
 ```
+
+### [scipy](https://scipy.org/)
+
+```shell script
+pip install scipy
+```
+
+### [levmar](https://github.com/tkanmae/levmar)
+
+```shell script
+pip install levmar
+```
